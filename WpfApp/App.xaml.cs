@@ -2,7 +2,7 @@
 using System.Data;
 using System.Windows;
 
-namespace WpfApp
+namespace Assignment1_PRN212
 {
     /// <summary>
     /// Interaction logic for App.xaml

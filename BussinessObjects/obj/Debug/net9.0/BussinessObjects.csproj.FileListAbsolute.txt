@@ -1,0 +1,15 @@
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\bin\Debug\net9.0\BussinessObjects.deps.json
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\bin\Debug\net9.0\BussinessObjects.runtimeconfig.json
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\bin\Debug\net9.0\BussinessObjects.dll
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\bin\Debug\net9.0\BussinessObjects.pdb
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.csproj.AssemblyReference.cache
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.GeneratedMSBuildEditorConfig.editorconfig
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.AssemblyInfoInputs.cache
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.AssemblyInfo.cs
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.csproj.CoreCompileInputs.cache
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.sourcelink.json
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.dll
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\refint\BussinessObjects.dll
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.pdb
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\BussinessObjects.genruntimeconfig.cache
+D:\FPTCN5\PRN212\Code\Assignment1_PRN212\BussinessObjects\obj\Debug\net9.0\ref\BussinessObjects.dll
