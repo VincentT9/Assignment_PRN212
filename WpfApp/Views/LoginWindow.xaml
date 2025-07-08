@@ -80,7 +80,7 @@
             BorderBrush="{x:Null}"
             Click="TogglePassword_Click"/>
                     </Grid>
-                    <TextBlock Text="©Copyright by Dung_SE194760"
+                    <TextBlock Text="©Copyright by Tin_SE181736"
                            FontSize="9"
                            FontWeight="Light"
                            Foreground="#333"

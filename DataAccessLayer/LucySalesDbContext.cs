@@ -21,7 +21,7 @@ namespace DataAccessLayer
         {
             if (!optionsBuilder.IsConfigured)
             {
-                optionsBuilder.UseSqlServer("Server=DESKTOP-KF9CI8J\\SQLEXPRESS;Database=SWP_SchoolMedicalManagementSystem;UserId=sa;Password=12345;TrustServerCertificate=True;");
+                optionsBuilder.UseSqlServer("Server=DESKTOP-TUN9PP6\\SQLEXPRESS;Database=Lucy_SalesData;UserId=sa;Password=12345;TrustServerCertificate=True;");
             }
         }
 
